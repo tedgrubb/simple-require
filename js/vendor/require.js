@@ -1,4 +1,4 @@
-JAVASCRIPT_ROOT = 'javascript/';
+JAVASCRIPT_ROOT = 'js/';
 
 require = function() {
   var imports = arguments;

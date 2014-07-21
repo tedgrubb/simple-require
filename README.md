@@ -20,7 +20,7 @@ Stupidly simple method of preloading javascript files in development
 
 ### Require your javascript files in the order you'd like them to be loaded
 
-    // JAVASCRIPT_ROOT = 'js/'; // Optional path to your javascript files (default is 'javascript/')
+    // JAVASCRIPT_ROOT = 'javascript/'; // Optional path to your javascript files (default is 'js/')
 
     require('base.js', 'events.js');
 

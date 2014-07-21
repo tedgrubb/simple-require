@@ -1,4 +1,4 @@
-JAVASCRIPT_ROOT = 'js/';
+// JAVASCRIPT_ROOT = 'javascript/'; // Optional path to your javascript files (default is 'js/')
 
 require('base.js', 'events.js');
 
